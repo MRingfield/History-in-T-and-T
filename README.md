@@ -6,8 +6,11 @@ We'll be using a sample Intro to T&T syllabus and collaborative reading notes to
 ## Sample Syllabus
 You'll practice fetching, making local additions and changes, and pushing using the collaborative sample Intro to T&T Syllabus.
 
+Going to fork and fetch with felicity. 
+
 ## Reading Notes
 This repo also provides a place where you can collaboratively write reading notes about any of the Core Reading List texts.
 
 ### This is a Heading
 You should change that heading's size.
+
